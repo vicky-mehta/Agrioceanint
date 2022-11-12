@@ -1,0 +1,8 @@
+[10/06/2022 7:16:01 AM] - Easy WP SMTP debug log file
+
+[10/17/2022 11:18:35 PM] - 
+------------------------------------------------------------------------------------------------------
+Domain check failed: website domain (agrioceanint.com) is not in allowed domains list.
+SMTP settings won't be used.
+------------------------------------------------------------------------------------------------------
+
